@@ -11,13 +11,10 @@
     ".theia": true,
     ".gitignore": true,
     ".gtignore": true,
+    "**/index.js": true,
     "run.sh": true,
     "run_unittests.sh": true,
     "LICENSE": true,
-    "build.xml": true,
-    "build":true,
-    "dist":true,
-    "README.md":true,
-    "Main.java":true
+    "package.json": true
   }
 }
